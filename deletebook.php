@@ -9,5 +9,4 @@
 	}
 	else
 		echo "Not deleted";
-	?>
 ?>
